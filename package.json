@@ -14,17 +14,17 @@
     "forestry-preview": "next src -p 8080 -H 0.0.0.0"
   },
   "dependencies": {
-    "gray-matter": "^4.0.2",
-    "next": "^9.0.2",
+    "gray-matter": "^4.0.3",
+    "next": "^12.0.7",
     "node-glob": "^1.2.0",
-    "raw-loader": "^3.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-markdown": "^4.1.0",
-    "webpack": "^4.37.0"
+    "raw-loader": "^4.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-markdown": "^7.1.2",
+    "webpack": "^5.65.0"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.5.1"
   },
   "keywords": [
     "next",

@@ -11,7 +11,7 @@ export default function BlogTemplate(props) {
   }
   const markdownBody = props.content
   const frontmatter = props.data
-
+  console.log("Hahowa : "+ markdownBody);
   return (
     <Layout siteTitle={props.siteTitle}>
     <article className="blog">

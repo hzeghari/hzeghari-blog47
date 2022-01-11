@@ -39,7 +39,9 @@ const BlogList = (props) => {
       </ul>
       <style jsx>
         {`
+          * {
           margin-bottom: 0;
+          }
           a:hover {
             opacity: 1;
           }
